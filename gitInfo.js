@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+gitDefinition = "It's a way to track files on a computer and allow programmers to collaborate a lot simpler and easier"
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+gitHubDefinition = "GitHub is a place to store all your code and allows you to look back on each commit to see where you left off."
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,7 +28,7 @@
 */
 
 //CODE HERE
-
+gitInitDefinition = 'This initializes the git repository so you can upload your code to github'
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +36,7 @@
 */
 
 //CODE HERE
-
+gitCloneDefinition = 'is used to create a copy of a repository that alreadty exists'
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +44,7 @@
 */
 
 //CODE HERE
+gitStatus = 'helps you to know where you were working at with git and whats being tracked'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,7 +56,8 @@
 */
 
 //CODE HERE
-
+gitAddDefinition = 'allows you to choose which files you want to be tracked'
+gitAddCode = 'add .'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +68,8 @@
 */
 
 //CODE HERE
-
+gitCommitDefinition = 'Allows you to save your code and add some notes on the changes you made'
+gitCommitCode = 'git commit -m "" '
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +78,4 @@
 */
 
 //CODE HERE
+gitPushDefinition = 'pushes everything you did up to github'
